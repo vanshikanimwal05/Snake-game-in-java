@@ -4,20 +4,19 @@ A classic Snake Game built using Java Swing & AWT, where you control a snake to 
 
 📌 Features
 ✔️ Smooth Gameplay using Java Swing and Timer
+
 ✔️ Score System – Gain points as the snake eats food
+
 ✔️ Game Over Screen when the snake collides with itself or the wall
+
 ✔️ Easy Controls – Arrow keys (↑ ↓ ← →) to move
+
 ✔️ Optimized Performance with Collision Detection & Timers
 
 📸 Game Screenshot
 
 🚀 How to Run
-1️⃣ Clone the repository
-
-bash
-Copy
-Edit
-git clone https://github.com/vanshikanimwal05/Snake-Game-Java.git
+1️⃣ Clone the repository git clone https://github.com/vanshikanimwal05/Snake-Game-Java.git
 2️⃣ Open the project in an IDE (IntelliJ IDEA, Eclipse, VS Code)
 3️⃣ Compile & Run the SnakeGame.java file
 4️⃣ Use arrow keys (↑ ↓ ← →) to move the snake
